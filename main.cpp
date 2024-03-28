@@ -128,12 +128,12 @@ void playWithTwoPlayers(char str[MAX_N][MAX_N], int n)
 		printBoard(str, n);
 		i++;
 		win = winner(str, n);
-		if (win != '-') break;
+		if (win != '-' || size == 0) break;
 
 		play(str, n, 'O');
 		printBoard(str, n);
 		win = winner(str, n);
-		if (win != '-') break;
+		if (win != '-' || size == 0) break;
 	}
 
 	if (win == '-') cout<<"Nobody wins\n";
