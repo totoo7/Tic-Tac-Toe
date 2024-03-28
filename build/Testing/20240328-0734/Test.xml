@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Darwin-clang++"
+	BuildStamp="20240328-0734-Experimental"
+	Name="MacBooks-MacBook-Pro.local"
+	Generator="ctest-3.26.4"
+	CompilerName="/usr/bin/clang++"
+	CompilerVersion="15.0.0.15000100"
+	OSName="macOS"
+	Hostname="MacBooks-MacBook-Pro.local"
+	OSRelease="13.6.6"
+	OSVersion="22G630"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="142"
+	ProcessorCacheSize="32768"
+	NumberOfLogicalCPU="4"
+	NumberOfPhysicalCPU="2"
+	TotalVirtualMemory="1024"
+	TotalPhysicalMemory="8192"
+	LogicalProcessorsPerPhysical="8"
+	ProcessorClockFrequency="2300"
+	>
+	<Testing>
+		<StartDateTime>Mar 28 09:34 EET</StartDateTime>
+		<StartTestTime>1711611291</StartTestTime>
+		<TestList/>
+		<EndDateTime>Mar 28 09:34 EET</EndDateTime>
+		<EndTestTime>1711611291</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

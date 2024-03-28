@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/macbookpro/Desktop/Project/Tic-Tac-Toe/build",
+  "command": "/usr/bin/clang++   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -mmacosx-version-min=13.6 -o CMakeFiles/Project.dir/main.cpp.o -c /Users/macbookpro/Desktop/Project/Tic-Tac-Toe/main.cpp",
+  "file": "/Users/macbookpro/Desktop/Project/Tic-Tac-Toe/main.cpp",
+  "output": "CMakeFiles/Project.dir/main.cpp.o"
+}
+]
